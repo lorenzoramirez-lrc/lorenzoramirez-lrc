@@ -14,7 +14,7 @@
 
 
 <h3 align="left">About Me:</h3>
-Second semester systems engineering student.
+Third semester systems engineering student.
 
 Bogotá, Colombia.
 
