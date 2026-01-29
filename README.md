@@ -25,22 +25,6 @@ Bogotá, Colombia.
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Stats :</h3>
-
-###
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzoramirez-lrc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=true&order=2&exclude_repo=HTML,css" height="150" alt="languages graph" />
-
-</div>
-
-
-
-
-
-
-
 
 <!--
 **lorenzoramirez-lrc/lorenzoramirez-lrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
