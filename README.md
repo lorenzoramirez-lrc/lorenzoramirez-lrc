@@ -2,20 +2,15 @@
 
 - Systems Engineering Student at Pontifica Universidad Javeriana, Bogotá.
 
-## Interest
+## Interests
 - Systems Design and Development
 - C++
-- Competitive Programming 
+- Competitive Programming
+
+---
 
 
-## Contact
-
-
-<div align="left">
-  <a href="mailto:lorenzoramirez.lrc@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-</div>
+***Contact:*** lorenzoramirez.lrc@gmail.com
 
 <!--
 **lorenzoramirez-lrc/lorenzoramirez-lrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
