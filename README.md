@@ -1,16 +1,25 @@
 # Lorenzo Ramirez Calderon 
 
-- Systems Engineering Student at Pontifica Universidad Javeriana, Bogotá.
+Systems Engineering Student at Pontifica Universidad Javeriana, Bogotá.
 
 ## Interests
 - Systems Design and Development
+- Backend Engineering
 - C++
 - Competitive Programming
 
+## Currently Learning
+- Modern C++
+- Distributed Systems
+
+
+## Technologies
+
+C++ • Git/GitHub • Linux
+
 ---
 
-
-***Contact:*** lorenzoramirez.lrc@gmail.com
+**Contact:** lorenzoramirez.lrc@gmail.com
 
 <!--
 **lorenzoramirez-lrc/lorenzoramirez-lrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
